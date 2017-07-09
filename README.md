@@ -2,8 +2,10 @@
 
 # What is it?
 Fractal Poke is an add-on for Blender 3D (blender.org), which enables the user to create fractal-like structures on top of selected faces on a mesh.
+
 It was inspired by the structures shown in Simon Holmedal’s ‚Always Forever‘:
 http://www.simonholmedal.com/alwaysforever/
+
 It was written by Christopher Kopic in July 2017.
 
 # Installing the addon.
