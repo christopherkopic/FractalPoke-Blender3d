@@ -9,9 +9,9 @@ http://www.simonholmedal.com/alwaysforever/
 It was written by Christopher Kopic in July 2017.
 
 # Installing the addon.
-1.	Download the .zip file.
+1.	Download the .zip file and unpack it.
 2.	In Blender open the user preferences, navigate to the add-ons tab and click ‚Install Add-on from File‘
-3.	Select the zip and click ‚Install Add-on from File…‘
+3.	Inside the unpacked folder, select the FractalPoke.py file and click ‚Install Add-on from File…‘
 4.	Select the checkbox next to ‚Mesh: Fractal Poke‘ and click ‚Safe User Settings‘
 
 # Using the operator.
